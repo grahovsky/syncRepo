@@ -1,0 +1,20 @@
+{
+    "repos": [
+        {
+            "targetRepo": null,
+            "syncToTarget": null,
+            "lastCommit": "8d7b0f",
+            "remote": "origin",
+            "sourceBranch": "master",
+            "name": "test repo"
+        },
+        {
+            "targetRepo": null,
+            "syncToTarget": null,
+            "lastCommit": "8d7b0f",
+            "remote": "origin",
+            "sourceBranch": "master",
+            "name": "test repo"
+        }
+    ]
+}
